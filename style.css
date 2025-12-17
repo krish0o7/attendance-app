@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f6ff;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+.class-box {
+  background: white;
+  padding: 15px;
+  margin: 10px auto;
+  width: 350px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+button {
+  padding: 8px 15px;
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+.present {
+  background: #2ecc71;
+  color: white;
+}
+
+.absent {
+  background: #e74c3c;
+  color: white;
+}
+
+.summary-box {
+  background: #ffffff;
+  margin: 8px auto;
+  padding: 10px;
+  width: 350px;
+  border-radius: 8px;
+}
